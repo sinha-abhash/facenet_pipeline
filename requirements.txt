@@ -23,7 +23,7 @@ mock==2.0.0
 numpy==1.15.4
 opencv-python==4.0.0.21
 pbr==5.1.1
-Pillow==6.2.0
+Pillow==8.3.2
 prompt-toolkit==2.0.8
 protobuf==3.6.1
 psutil==5.5.0
